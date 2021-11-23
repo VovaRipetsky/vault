@@ -1,0 +1,7 @@
+mysqlSecrets:
+- secret: proteantecs
+  path: kv/data/customer
+- secret: analytics
+  path: kv/data/customer2
+- secret: alerts
+  path: kv/data/customer3

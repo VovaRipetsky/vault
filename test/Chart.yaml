@@ -1,0 +1,10 @@
+apiVersion: v1
+name       : secrets
+description: secrets for another charts for k8s
+type       : application
+version    : 0.1.0   # This is the Helm Chart version
+appVersion : "1.2.3" # This is the version of the application being deployed
+
+
+maintainers:
+  - name : proteantecs team
